@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    align-items: center;
+}
+.dob{
+    padding: 50px;
+    font-size: xx-large;
+}
+.dob label{
+    font-weight: bold;
+    display: block;
+}
+.btn button[type="submit"]{
+    background-color: rgb(67, 68, 68);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: medium;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.btn button[type="submit"]:hover{
+    background-color: rgb(243, 224, 234);
+}

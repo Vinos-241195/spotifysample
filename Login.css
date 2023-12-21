@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(49, 47, 47);
+}
+.icon{
+    display: inline;
+    text-align: center;
+}
+.btn button[type="submit"]{
+    background-color: rgb(38, 39, 39);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: medium;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.btn button[type="submit"]:hover{
+    background-color: rgb(61, 59, 60);
+}
+.btns button[type="submit"]{
+    background-color: rgb(54, 168, 20);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: medium;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.btns button[type="submit"]:hover{
+    background-color: rgb(235, 225, 231);
+}
+.bt button[type="submit"]{
+    background-color: rgb(241, 245, 240);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: medium;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.bt button[type="submit"]:hover{
+    background-color: rgb(61, 59, 60);
+}
